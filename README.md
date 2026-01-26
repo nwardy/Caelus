@@ -1,12 +1,10 @@
 # Caelus
 
-## Team
-* Noah Carter
-* Michelle Eidbe
-* Jacob Letterman
-* Nathan Wardy
+a self operating drone system designed to handle its entire mission lifecycle without human input, from takeoff to task execution to automated docking and charging.
 
----
+## Status
+
+(1/26) Idea Confirmed, inital drawing and plans due 1/30
 
 ## Mission Objective
 
@@ -17,15 +15,9 @@ Build an autonomous drone that can:
 * Return to the dock
 * Land on a charging pad for recharging
 
----
 
-## Project Overview
-
-Caelus is a self operating drone system designed to handle its entire mission lifecycle without human input, from takeoff to task execution to automated docking and charging.
-
----
-
-## Status
-
-# (1/26) Idea Confirmed, inital drawing and plans due 1/30
-
+## Team
+* Noah Carter
+* Michelle Eidbe
+* Jacob Letterman
+* Nathan Wardy
