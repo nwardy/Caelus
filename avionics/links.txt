@@ -12,3 +12,9 @@ https://www.betaflight.com/docs/wiki/guides/current/Installing-Betaflight
 
 BetaFlight programming Guide's 
 https://www.betaflight.com/docs/development/Rx
+
+https://www.betaflight.com/docs/development/API/MSP-Extensions?utm_source=chatgpt.com
+
+https://github.com/betaflight/betaflight/blob/master/README.md?utm_source=chatgpt.com
+
+https://gist.github.com/kolezka/622d6e3ac37ccd5598d6cabfdff7305e?utm_source=chatgpt.com
