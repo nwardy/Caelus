@@ -8,5 +8,7 @@ Auto Docking Centering: https://www.youtube.com/watch?v=1HARdAXj4E8
 
 
 BetaFlight Installer for software
-
 https://www.betaflight.com/docs/wiki/guides/current/Installing-Betaflight
+
+BetaFlight programming Guide's 
+https://www.betaflight.com/docs/development/Rx
