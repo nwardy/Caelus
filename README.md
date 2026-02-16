@@ -4,7 +4,7 @@ a self operating drone system designed to handle its entire mission lifecycle wi
 
 ## Status
 
-(1/26) Idea Confirmed, inital drawing and plans due 1/30
+(2/16) All Electronics on hand- flight controller assembled with speed controllers, gps and motors attached. Waiting on drone frame! 
 
 ## Mission Objective
 
