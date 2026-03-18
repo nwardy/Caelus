@@ -24,3 +24,4 @@ Build an autonomous drone that can:
 * Jacob Fetterman
 * Joshua Gould
 * Jake Webster
+* Junior Tchapmou
