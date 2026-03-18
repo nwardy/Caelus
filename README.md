@@ -4,7 +4,7 @@ a self operating drone system designed to handle its entire mission lifecycle wi
 
 ## Status
 
-(2/16) All Electronics on hand- flight controller assembled with speed controllers, gps and motors attached. Waiting on drone frame! 
+(3/18) Final Build In Progress. Software Team built out. One month from Pre-Release Demo.
 
 ## Mission Objective
 
@@ -17,7 +17,10 @@ Build an autonomous drone that can:
 
 
 ## Team
-* Noah Carter
-* Michelle Eidbe
-* Jacob Letterman
 * Nathan Wardy
+* Noah Carter
+* Chase Gregg
+* Michelle Eidbe
+* Jacob Fetterman
+* Joshua Gould
+* Jake Webster
